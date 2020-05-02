@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ToDo-App/static/css/main.2674f854.chunk.css",
+    "main.js": "/ToDo-App/static/js/main.54fd377b.chunk.js",
+    "main.js.map": "/ToDo-App/static/js/main.54fd377b.chunk.js.map",
+    "runtime-main.js": "/ToDo-App/static/js/runtime-main.7e8c4adf.js",
+    "runtime-main.js.map": "/ToDo-App/static/js/runtime-main.7e8c4adf.js.map",
+    "static/js/2.def871f4.chunk.js": "/ToDo-App/static/js/2.def871f4.chunk.js",
+    "static/js/2.def871f4.chunk.js.map": "/ToDo-App/static/js/2.def871f4.chunk.js.map",
+    "index.html": "/ToDo-App/index.html",
+    "precache-manifest.660001c92ada597e28a75e7a13db5e1d.js": "/ToDo-App/precache-manifest.660001c92ada597e28a75e7a13db5e1d.js",
+    "service-worker.js": "/ToDo-App/service-worker.js",
+    "static/css/main.2674f854.chunk.css.map": "/ToDo-App/static/css/main.2674f854.chunk.css.map",
+    "static/js/2.def871f4.chunk.js.LICENSE.txt": "/ToDo-App/static/js/2.def871f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e8c4adf.js",
+    "static/js/2.def871f4.chunk.js",
+    "static/css/main.2674f854.chunk.css",
+    "static/js/main.54fd377b.chunk.js"
+  ]
+}
